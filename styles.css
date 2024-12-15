@@ -7,7 +7,7 @@ body {
 #photo-collage {
   width: 100vw; /* Full viewport width */
   height: 100vh; /* Full viewport height */
-  background-image: url('your-collage-image.jpg'); /* Replace with your image */
+  background-image: url('wall.png'); /* Replace with your image */
   background-size: contain; /* Ensure the image retains aspect ratio */
   background-repeat: no-repeat;
   background-position: center;
